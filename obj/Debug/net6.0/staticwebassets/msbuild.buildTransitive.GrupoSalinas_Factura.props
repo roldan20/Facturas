@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\GrupoSalinas_Factura.props" />
+</Project>
